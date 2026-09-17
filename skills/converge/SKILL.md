@@ -1,4 +1,5 @@
 ---
+name: converge
 description: "Multi-approach convergence analysis. Spawns parallel agents that tackle the same problem from different methodological angles, then consolidates to check whether results converge or diverge. Inspired by pymc-labs/decision-lab."
 ---
 
